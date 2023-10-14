@@ -59,7 +59,7 @@
     "eslint-plugin-tailwindcss": "^3.10.1",
     "eslint-plugin-unused-imports": "^2.0.0",
     "knip": "^2.19.5",
-    "postcss": "^8.4.21",
+    "postcss": "^8.4.31",
     "postcss-import": "^15.1.0",
     "prisma": "^4.13.0",
     "supabase": "^1.46.5",
